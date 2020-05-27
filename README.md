@@ -1,12 +1,39 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Info
+This is a simple restaurant App created to test my react skills (is created within 4hrs) 
 
-## Run in sequence
+## ScreenShots
 
-npm init
-npm start
+Home- 
+![](screenshots/Capture2.PNG)
+
+Filters- 
+![](screenshots/Capture1.PNG)
+
+Search- 
+![](screenshots/Capture_3_search.PNG)
+
+Filters #2- 
+![](screenshots/Capture_4_filter.PNG)
+
+Sticky Sidebar- 
+![](screenshots/Capture_5_sticky_sidebar.PNG)
+
+Sort- 
+![](screenshots/Capture_6_sort.PNG)
+
+Filter + Sort-
+![](screenshots/Capture_7_filterAndSort.PNG)
+
+Search + filter + sort- 
+![](screenshots/Capture_8_search_filter_sort.PNG)
 
 
+## How to use- 
+Clone/ download the source code
 
+open terminal => navigate to the source folder
+
+`npm install` to load all the dependencies. 
 
 ## Available Scripts
 
@@ -44,33 +71,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
