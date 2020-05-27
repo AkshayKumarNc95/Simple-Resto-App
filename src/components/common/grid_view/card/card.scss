@@ -1,0 +1,35 @@
+$dark-green: green; 
+$green: lighten(green, 20); 
+$yellow: darken(yellow, 18); 
+$orange: darken(orange,10); 
+$white:lighten(red,40); 
+
+h1{
+    color:grey; 
+}
+
+.spn-green{
+    color: lighten(green, $amount: 20);
+}
+
+.anchor-card{
+    &>span{
+        font-weight: bold;
+    }
+
+    .Dark_Green{
+        color: $dark-green;
+    }
+    .Green{
+        color: $green;
+    }
+    .Yellow{
+        color: $yellow;
+    }
+    .White{
+        color: $white;
+    }
+    .Orange{
+        color: $orange;
+    }
+}

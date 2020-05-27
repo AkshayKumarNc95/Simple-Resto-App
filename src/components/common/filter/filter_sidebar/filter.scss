@@ -1,0 +1,32 @@
+$font-color: #2d3436;
+$font-family: cursive;
+$primary-color: #2d3436;
+$secondary-color: #dfe6e9;
+
+.filter-grid-out {
+    text-align: center;
+    border-radius: 5px;
+    margin: .2%;
+    border: 2px solid $primary-color;
+    height: 50em;
+    
+
+
+    .search-out {
+        margin: .2%;
+
+        .inp-text-src {
+            background-color: $secondary-color;
+            width: 95%;
+            height: 10%;
+            padding: 1%;
+            padding-top: 1.5%;
+            padding-bottom: 1.5%;
+            outline: none;
+            border-radius: 5px;
+            border: 2px solid $font-color;
+            font-family: $font-family;
+            font-size: large;
+        }
+    }
+}

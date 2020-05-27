@@ -1,0 +1,32 @@
+.home-out {
+    .title-out {
+        margin: .5%;
+        padding: 2%;
+        border-radius: 1%;
+        background-color: lighten(#ff7675, 20);
+    }
+
+    .home-in {
+        display: flex;
+        flex-direction: row;
+        
+        .home-grid-out {
+            margin-top: 3%;
+           flex: 3;
+            width: 80%;
+           
+        }
+
+        .home-filter-out {
+            margin: .5%;
+            margin-left:0;
+            flex: .75;
+            min-height: 90%;
+            position: -webkit-sticky; /* for Safari */
+            position: sticky;
+            top: 2%;
+            align-self: flex-start; /* <-- this is the fix */
+        }
+        
+    }
+}

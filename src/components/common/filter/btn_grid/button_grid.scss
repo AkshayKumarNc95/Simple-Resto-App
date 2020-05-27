@@ -1,0 +1,19 @@
+.grid-btn-out{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1%;
+    background-color:  darken(#2d3436, 10);
+    padding: 1%;
+    border-radius: 5px;
+    max-width: 95%;
+    max-height: 50%;
+    margin-left: 2.5%;
+    overflow: auto;
+    .btn-grid{
+        flex-direction: column;
+        margin: 1%;
+    }
+
+}
+
+
