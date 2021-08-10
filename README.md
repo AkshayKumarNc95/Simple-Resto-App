@@ -1,5 +1,5 @@
 ## Info
-This is a simple restaurant App created to test my react skills (is created within 4hrs) 
+This is a simple restaurant App created to test my react skills.
 
 ## ScreenShots
 
